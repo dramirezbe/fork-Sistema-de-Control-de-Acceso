@@ -1,0 +1,3 @@
+/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/CMakeFiles/Entregable-control-acceso.dir
+/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/CMakeFiles/edit_cache.dir
+/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/CMakeFiles/rebuild_cache.dir
