@@ -1,0 +1,8 @@
+# ninja log v5
+2	27	1737383323654037435	CMakeFiles/Entregable-control-acceso.dir/Startup/startup_stm32l476rgtx.s.obj	b2870483b50dca1b
+2	57	1737383323686036566	CMakeFiles/Entregable-control-acceso.dir/Src/systick.c.obj	76ebbc323e52c3d6
+1	68	1737383323698036240	CMakeFiles/Entregable-control-acceso.dir/Src/main.c.obj	d54afa41d6d455ee
+2	68	1737383323698036240	CMakeFiles/Entregable-control-acceso.dir/Src/uart.c.obj	e1adc5c85dac6aea
+1	73	1737383323702036131	CMakeFiles/Entregable-control-acceso.dir/Src/gpio.c.obj	cb4583a3c0424e1b
+1	137	1737383323766034393	CMakeFiles/Entregable-control-acceso.dir/Src/syscall.c.obj	5251e3f5a58e707e
+137	183	1737383323798033524	Entregable-control-acceso.elf	37bd52827d802b50

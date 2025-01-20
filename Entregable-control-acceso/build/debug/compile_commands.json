@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/build/debug",
+  "command": "/home/javastral/st/stm32cubeclt_1.17.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -I/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles/Entregable-control-acceso.dir/Src/main.c.obj -c /home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/main.c",
+  "file": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/main.c",
+  "output": "CMakeFiles/Entregable-control-acceso.dir/Src/main.c.obj"
+},
+{
+  "directory": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/build/debug",
+  "command": "/home/javastral/st/stm32cubeclt_1.17.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -I/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles/Entregable-control-acceso.dir/Src/syscall.c.obj -c /home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/syscall.c",
+  "file": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/syscall.c",
+  "output": "CMakeFiles/Entregable-control-acceso.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/build/debug",
+  "command": "/home/javastral/st/stm32cubeclt_1.17.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -I/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles/Entregable-control-acceso.dir/Src/gpio.c.obj -c /home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/gpio.c",
+  "file": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/gpio.c",
+  "output": "CMakeFiles/Entregable-control-acceso.dir/Src/gpio.c.obj"
+},
+{
+  "directory": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/build/debug",
+  "command": "/home/javastral/st/stm32cubeclt_1.17.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -I/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles/Entregable-control-acceso.dir/Src/systick.c.obj -c /home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/systick.c",
+  "file": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/systick.c",
+  "output": "CMakeFiles/Entregable-control-acceso.dir/Src/systick.c.obj"
+},
+{
+  "directory": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/build/debug",
+  "command": "/home/javastral/st/stm32cubeclt_1.17.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -I/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles/Entregable-control-acceso.dir/Src/uart.c.obj -c /home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/uart.c",
+  "file": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Src/uart.c",
+  "output": "CMakeFiles/Entregable-control-acceso.dir/Src/uart.c.obj"
+},
+{
+  "directory": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/build/debug",
+  "command": "/home/javastral/st/stm32cubeclt_1.17.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc -DDEBUG -I/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso -g -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles/Entregable-control-acceso.dir/Startup/startup_stm32l476rgtx.s.obj -c /home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Startup/startup_stm32l476rgtx.s",
+  "file": "/home/javastral/GIT/fork-Sistema-de-Control-de-Acceso/Entregable-control-acceso/Startup/startup_stm32l476rgtx.s",
+  "output": "CMakeFiles/Entregable-control-acceso.dir/Startup/startup_stm32l476rgtx.s.obj"
+}
+]
